@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>ssfg</title>
+    <link href="https://angarita-dev.github.io/publii-publish/feed.xml" rel="self" />
+    <link href="https://angarita-dev.github.io/publii-publish" />
+    <updated>2023-01-03T23:17:24-05:00</updated>
+    <author>
+        <name>sfg</name>
+    </author>
+    <id>https://angarita-dev.github.io/publii-publish</id>
+
+    <entry>
+        <title>Example site</title>
+        <author>
+            <name>sfg</name>
+        </author>
+        <link href="https://angarita-dev.github.io/publii-publish/example-site.html"/>
+        <id>https://angarita-dev.github.io/publii-publish/example-site.html</id>
+
+        <updated>2023-01-03T23:17:24-05:00</updated>
+            <summary>
+                <![CDATA[
+                    This is the suba sdfgsfdg
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <blockquote>
+<p><strong>This is the <code>suba</code></strong></p>
+<h6>sdfgsfdg</h6>
+</blockquote>
+            ]]>
+        </content>
+    </entry>
+</feed>

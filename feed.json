@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ssfg",
+    "description": "",
+    "home_page_url": "https://angarita-dev.github.io/publii-publish",
+    "feed_url": "https://angarita-dev.github.io/publii-publish/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "sfg"
+    },
+    "items": [
+        {
+            "id": "https://angarita-dev.github.io/publii-publish/example-site.html",
+            "url": "https://angarita-dev.github.io/publii-publish/example-site.html",
+            "title": "Example site",
+            "summary": "This is the suba sdfgsfdg",
+            "content_html": "<blockquote>\n<p><strong>This is the <code>suba</code></strong></p>\n<h6>sdfgsfdg</h6>\n</blockquote>",
+            "author": {
+                "name": "sfg"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-01-03T23:17:24-05:00",
+            "date_modified": "2023-01-03T23:17:24-05:00"
+        }
+    ]
+}

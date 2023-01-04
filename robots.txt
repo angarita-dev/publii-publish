@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://angarita-dev.github.io/publii-publish/sitemap.xml
