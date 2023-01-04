@@ -10,18 +10,35 @@
     },
     "items": [
         {
-            "id": "https://angarita-dev.github.io/publii-publish/example-site.html",
-            "url": "https://angarita-dev.github.io/publii-publish/example-site.html",
-            "title": "Example site",
-            "summary": "This is the suba sdfgsfdg",
-            "content_html": "<blockquote>\n<p><strong>This is the <code>suba</code></strong></p>\n<h6>sdfgsfdg</h6>\n</blockquote>",
+            "id": "https://angarita-dev.github.io/publii-publish/new-example-post/index.html",
+            "url": "https://angarita-dev.github.io/publii-publish/new-example-post/index.html",
+            "title": "New example post",
+            "summary": "<figure class=\"post__image\"><img loading=\"lazy\"  style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\" src=\"https://angarita-dev.github.io/publii-publish/media/posts/2/photo-1671725501632-3980b640f420-2.avif\" alt=\"\" width=\"688\" height=\"1031\"></figure>Lorem ipsum sit amet here</p>\n<p class=\"msg msg--info\">This is an info box</p>\n<p class=\"msg msg--highlight \">Highlight box</p>\n<p>Success box</p>\n<p><code>code here</code></p>\n<blockquote>\n<p>Block quote</p>\n<p>***</p>\n</blockquote>\n<pre>Pre here ;)</pre>\n",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\" src=\"https://angarita-dev.github.io/publii-publish/media/posts/2/photo-1671725501632-3980b640f420-2.avif\" alt=\"\" width=\"688\" height=\"1031\"></figure>Lorem ipsum sit amet here</p>\n<p class=\"msg msg--info\">This is an info box</p>\n<p class=\"msg msg--highlight \">Highlight box</p>\n<p>Success box</p>\n<p><code>code here</code></p>\n<blockquote>\n<p>Block quote</p>\n<p>***</p>\n</blockquote>\n<pre>Pre here ;)</pre>\n\n<p>Below read more</p>",
+            "image": "https://angarita-dev.github.io/publii-publish/media/posts/2/photo-1671725501632-3980b640f420.avif",
             "author": {
                 "name": "sfg"
             },
             "tags": [
             ],
+            "date_published": "2023-01-03T23:39:56-05:00",
+            "date_modified": "2023-01-03T23:41:22-05:00"
+        },
+        {
+            "id": "https://angarita-dev.github.io/publii-publish/example-site/index.html",
+            "url": "https://angarita-dev.github.io/publii-publish/example-site/index.html",
+            "title": "Example site",
+            "summary": "This is the suba sdfgsfdg",
+            "content_html": "<blockquote>\n<p><strong>This is the <code>suba</code></strong></p>\n<h6>sdfgsfdg</h6>\n</blockquote>",
+            "image": "https://angarita-dev.github.io/publii-publish/media/posts/1/Photo-on-28-11-22-at-9.47-AM-2.jpg",
+            "author": {
+                "name": "sfg"
+            },
+            "tags": [
+                   "The guild"
+            ],
             "date_published": "2023-01-03T23:17:24-05:00",
-            "date_modified": "2023-01-03T23:17:24-05:00"
+            "date_modified": "2023-01-03T23:37:30-05:00"
         }
     ]
 }
